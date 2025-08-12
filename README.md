@@ -1,4 +1,4 @@
-# mY FIRST tic-tac-toe Game
+# My First tic-tac-toe Game
 This project is a a modern, neon-themed Tic Tac Toe game built with HTML, CSS, and JavaScript. This is part of my journey in learning web development and applying Objects, Object Constructs, Factory Functions, and Module Pattern. This is the breakdown of what this project helped me understand:
     - JavaScript Concepts:Modular design patterns, encapsulation, DOM manipulation, event handling, state management, and game logic. 
     - CSS Skills: Customs syling and theming, responsive design basics, and interactive UI elements.
